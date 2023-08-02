@@ -60,24 +60,13 @@ header .navegacao-primaria li a {
     padding: 60px;
 }
 
-.section-div-sobre {
-    animation: inicializar .7s forwards;
-    background-color: #000;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-content: space-around;
-    align-items: center;
-    gap: 60px;
-    padding: 60px;
-}
+
 
 .section-div img {
     max-width: 100%;
 }
 
-.section-div-sobre img {
-    max-width: 100%;
-}
+
 
 .digitando::after {
     content: '|';
@@ -106,33 +95,6 @@ header .navegacao-primaria li a {
 }
 
 .section-div a {
-    justify-self: start;
-    color: #fff;
-    padding: 15px 40px;
-    border-radius: 5px;
-    border: 2px solid white;
-}
-
-.section-div-sobre div {
-    margin-top: 15px;
-    align-items: start;
-    display: grid;
-    gap: 30px;
-}
-
-.section-div-sobre div h2 {
-    font-family: 'Poppins';
-    font-weight: 600;
-    color: #f7f7f7;
-}
-
-.section-div-sobre div p {
-    font-family: 'Poppins';
-    font-weight: 200;
-    color: #f7f7f7;
-}
-
-.section-div-sobre a {
     justify-self: start;
     color: #fff;
     padding: 15px 40px;

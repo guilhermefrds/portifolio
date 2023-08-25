@@ -60,13 +60,9 @@ header .navegacao-primaria li a {
     padding: 60px;
 }
 
-
-
 .section-div img {
-    max-width: 100%;
+    max-width: 95%;
 }
-
-
 
 .digitando::after {
     content: '|';
@@ -92,14 +88,6 @@ header .navegacao-primaria li a {
     font-family: 'Poppins';
     font-weight: 200;
     color: #f7f7f7;
-}
-
-.section-div a {
-    justify-self: start;
-    color: #fff;
-    padding: 15px 40px;
-    border-radius: 5px;
-    border: 2px solid white;
 }
 
 @keyframes pisca {
